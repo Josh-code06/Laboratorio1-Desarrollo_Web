@@ -24,6 +24,9 @@ Los programas permiten realizar operaciones y conversiones básicas mediante dat
 ```text
 problema1Lab1.php
 problema2Lab1.php
+problema3Lab1.php
+Ejemplo3.php
+Ejemplo5.php
 Ejemplo7.php
 Ejemplo8.php
 README.md
